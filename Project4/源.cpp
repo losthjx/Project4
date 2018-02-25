@@ -13,7 +13,7 @@ int main()
 	cout << bb << endl << *bb << endl;
 
 
-	cout << "p的值" << p << endl
+	cout << "p12的值" << p << endl
 		<< "*p的值" << *p << endl
 		<< "(*p) + 1的值" << (*p) + 1 << endl
 		<< "(*p)+2的值" << (*p) + 2 << endl
